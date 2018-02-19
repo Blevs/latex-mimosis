@@ -3,8 +3,8 @@
 This repository contains a minimal & modern LaTeX template for
 dissertations and other university documents.
 
-For the impatient or curious: [this is how the template looks
-like](Thesis.pdf).
+For the impatient or curious: [this is how the template looks]
+(Thesis.pdf).
 
 # Advantages
 
